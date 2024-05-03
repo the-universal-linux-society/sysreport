@@ -24,3 +24,11 @@ Just by running the script it offers insight into CPU data, disk space, temperat
 2. chmod +x report.sh
 3. ./report.sh
 
+### Dependencies: 
+- lolcat
+  
+### distros
+This script only works on debian, fedora, arch-linux based distro's due to a dependency file 'lolcat'.
+
+Manually install before running the script, if you are using a different distro than the ones listed.
+
