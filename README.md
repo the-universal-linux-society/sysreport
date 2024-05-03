@@ -1,2 +1,26 @@
 # sysreport
-Bash script to give you a full system report
+sysreport is a bash script designed to provide system information at a glance.
+
+Just by running the script it offers insight into CPU data, disk space, temperature readings, network configuration, MAC addresses, firewall status, and system logs for error analysis.
+
+### Features:
+- CPU Usage:
+  Displays CPU data, and statistics.
+- Disk Space:
+  Shows disk usage and available space
+- Temperature:
+  Retrieves temperature data, aiding in monitoring system health
+- Network Configuration:
+  Shows network interface information
+- MAC Addresses:
+  Lists MAC addresses for network interfaces
+- Firewall Status:
+  Checks the current status of the system firewall & alerts
+- System Logs:
+  Read through system logs, allowing for the detection and analysis of errors and anomalies
+
+  ### Usage:
+1. Clone or download the script.
+2. chmod +x report.sh
+3. ./report.sh
+
