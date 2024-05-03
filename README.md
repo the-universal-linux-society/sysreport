@@ -19,6 +19,9 @@ Just by running the script it offers insight into CPU data, disk space, temperat
 - System Logs:
   Read through system logs, allowing for the detection and analysis of errors and anomalies
 
+![report](https://github.com/the-universal-linux-society/sysreport/assets/161962528/937f5f9d-e70a-4381-bd8e-2c919264e04f)
+
+
   ### Usage:
 1. Clone or download the script.
 2. chmod +x report.sh
